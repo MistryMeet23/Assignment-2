@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#studentList {
+    margin-top: 20px;
+}
